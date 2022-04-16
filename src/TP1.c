@@ -22,7 +22,7 @@ int main(void) {
 	printf("ingrese un numero\n");
 	scanf("%d", &num2);
 	suma = num1 + num2;
-	printf("suma es %d", suma);
+	printf("suma es 123 %d", suma);
 
 	return EXIT_SUCCESS;
 }
